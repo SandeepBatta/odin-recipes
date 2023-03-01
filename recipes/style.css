@@ -1,0 +1,11 @@
+.title {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.description,
+.ingredients,
+.steps {
+  background-color: red;
+}
